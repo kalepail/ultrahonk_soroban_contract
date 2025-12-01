@@ -44,7 +44,7 @@ export class StellarService {
    * @param secretKey - Optional secret key for signing transactions (defaults to alice's key)
    */
   constructor(
-    contractId: string = 'CCS7MNX4SQKFMJDLVBUXYYYUIKRJMONLJKF5VWF4CTBNNPGWJLEHMVSD',
+    contractId: string = 'CCGOTRYRB6R3E6OY2XQAVQGM2T3URVQERFXQGU7HJEMONY7DU3UUCPOQ',
     rpcUrl: string = 'https://noir-local.stellar.buzz/soroban/rpc',
     secretKey?: string
   ) {
